@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Data Engineering projects.
 - 🤔 I’m looking for help with ML Ops resources and documentation.
 - 💬 Ask me about Data Engineering, Cloud Architecture, Terraform.
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sayantan-chakraborty-269b92126/)
